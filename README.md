@@ -19,3 +19,6 @@ Học phần: Chuyên đề chuyên sâu PTPM 1 - Trường ĐH Nguyễn Tất T
 - Git
 - GitHub
 - JavaScript
+
+## Quy trinh quan ly ma nguon
+Du an su dung Git va GitHub de quan ly phien ban.
